@@ -5,4 +5,4 @@ The project crawled coursera, edX, MIT and Stanford online courses and stored co
 
 The project used CGI programming as backend development language
 
-Project url: [http://cims.nyu.edu/~kq320/main.html](http://cims.nyu.edu/~kq320/main.html)
+Project URL: [http://cims.nyu.edu/~kq320/main.html](http://cims.nyu.edu/~kq320/main.html)
